@@ -2436,8 +2436,8 @@ a.button:active {
 
 #header_logo_img  {
 	float: left;
-   /* background: url(/upload/logo_.png);*/
-    background: url(/upload/logo___.jpeg);
+   /* background: url(../upload/logo_.png);*/
+    background: url(../upload/logo___.jpeg);
     width: 160px;
     height: 60px;
     background-position: center;
